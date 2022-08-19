@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://soft.kkws.cn:8089/soft/PDManer-win_v4.1.4.exe#/dl.7z",
-            "hash": "d7ec91e6b820dcf269351829267f5c33c791d81b132bdcc4f15c798724376518",
+            "hash": "9cabf271bfc0aefea880b4f7f5d9c2d24dd9724af1f21e8abcc05748ce23f5f0",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*\" -Recurse"

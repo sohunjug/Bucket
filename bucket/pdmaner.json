@@ -4,7 +4,7 @@
     "homepage": "http://www.pdmaner.com/#/",
     "license": "MIT",
     "architecture": {
-        "32bit": {
+        "64bit": {
             "url": "https://soft.kkws.cn:8089/soft/PDManer-win_v4.1.4.exe#/dl.7z",
             "hash": "d7ec91e6b820dcf269351829267f5c33c791d81b132bdcc4f15c798724376518",
             "pre_install": [
